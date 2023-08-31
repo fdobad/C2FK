@@ -51,9 +51,10 @@ venv/
 /Cell2FireC/x64
 *.pdb
 
-/data/*/results
 /data/*/Data.csv
-/data/*/*.qgz
-/data/*/*.aux.xml
 /data/*/Instance*
+/data/*/results
+/data/*/*.qgz
+/data/*/*.qm[dl]
+/data/*/*.aux.xml
 
